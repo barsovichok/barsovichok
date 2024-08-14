@@ -1,8 +1,13 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/tnkulagina/" target="_blank">Tatiana Kulagina</a> </h1>
-<h3 align="center">Full Stack QA Engineer with 7+ years experience</h3>
 
 
 
+
+
+- 👩‍💻 7+ years experience in **testing web and mobile apps**
+  
+- Work with **high-load UGC content apps, financial services, e-commerce**
+  
 - 🌱 I’m currently learning **ChatGPT for QA tasks**, **Python Autotests Advanced Course**
 
 - 📫 How to reach me **taya.kulagina@gmail.com**
