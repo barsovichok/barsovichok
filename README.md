@@ -6,7 +6,7 @@
 
 - 👩‍💻 7+ years experience in **testing web and mobile apps**
   
-- Work with **high-load UGC content apps, financial services, e-commerce**
+- 🦄 Work with **high-load UGC content apps, financial services, e-commerce**
   
 - 🌱 I’m currently learning **ChatGPT for QA tasks**, **Python Autotests Advanced Course**
 
